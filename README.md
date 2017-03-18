@@ -10,6 +10,7 @@ I use this script with alfred to switch keyboard layout of a selected word, some
 
 ## Known bugs
 Capital letters are lowercased when switched.
+Previous clipboard item is not restored 
 
 You are welcome to contribute.
 J.S.
