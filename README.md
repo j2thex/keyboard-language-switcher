@@ -24,6 +24,9 @@ You can download the .scpt file to see how the script works in applescript and t
 Capital letters now converted to capital letters
 Clipboard state is restored
 
+## Ver 0.3
+Now it can handle multiple words separated by space, and mixed languages as well. Wow! 
+
 ## Known bugs
 Can't convert multiple languages in selection
 
